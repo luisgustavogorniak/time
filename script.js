@@ -17,4 +17,4 @@ if (hour>=0 && hour<12){
     document.body.style.background = '#152A34'
     msg2.innerHTML = `Good Evening!`    
 }    
-
+/**/
